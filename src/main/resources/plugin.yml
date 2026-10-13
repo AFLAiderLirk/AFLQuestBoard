@@ -1,0 +1,9 @@
+name: AFLQuestBoard
+version: 1.0
+main: io.github.aflaiderlirk.questboard.QuestBoardPlugin
+api-version: '1.20'
+
+commands:
+  quests:
+    description: Открывает меню заданий
+    usage: /quests

@@ -1,0 +1,18 @@
+quests:
+  ZOMBIE_HUNTER:
+    target: 20
+    reward:
+      material: EMERALD
+      amount: 15
+
+  STONE_MINER:
+    target: 32
+    reward:
+      material: IRON_INGOT
+      amount: 8
+
+  SKELETON_HUNTER:
+    target: 8
+    reward:
+      material: GOLD_INGOT
+      amount: 4
