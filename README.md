@@ -15,13 +15,6 @@ A Minecraft quest plugin for Paper 1.20.4.
 - Automatic progress saving
 - Protected inventory GUI
 
-## Installation
-
-1. Build the plugin using Maven.
-2. Copy the generated JAR into the server's `plugins` folder.
-3. Restart the Paper server.
-4. Join the server and type `/quests`.
-
 ## Build
 
 Requirements:
